@@ -16,11 +16,11 @@ if no arguments are specified, a config file will be used
 the config file is named config.cfg and need to be located in the same directory as the script 
 the config file must look like This :
 
-##############################
+---------------------------------
 PathToNuke={ path }
 FileSize={ size }
 AmmountOfCopy={ ammount }
-##############################
+---------------------------------
 
 The size is in bytes and it is realy important not to put any spaces except if it's in the path, in this case, put it in ""
 this script need to be ran as administrator, i'm working on one that don't need administrator rights.
